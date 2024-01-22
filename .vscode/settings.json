@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.preferences.autoImportFileExcludePatterns": ["**/dist"],
+  "sonarlint.disableTelemetry": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  }
+}
